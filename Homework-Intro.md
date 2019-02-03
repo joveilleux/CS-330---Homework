@@ -6,7 +6,7 @@
 - **HelloWorld.py**
    - This is a simple Hello, World! program.
 - **FizzBuzz.py**
-  - This program prints the numbers 1 - 100.If the number is divisible
+  - This program prints the numbers 1 - 100. If the number is divisible
     by 3, it prints "Fizz". If the number is divisible by 5, it prints 
     "Buzz". If the number is divisible by both, it prints "FizzBuzz". 
 - **GuessingGame.py**
