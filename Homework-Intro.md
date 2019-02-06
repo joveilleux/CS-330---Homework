@@ -12,3 +12,7 @@
 - **GuessingGame.py**
   - This program gives a user 7 tries to guess a number bewtween 
     0 and 10. 
+- **Veilleux_Joanna_PLP2.pdf**
+  - This contains a brief "Getting Started Guide" for the C++ langauge. 
+ Some of the things that can be found here are how to write programs, 
+ what IDE's have been reccommended, and how to run the programs. 
