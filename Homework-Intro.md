@@ -15,4 +15,4 @@
 - **Veilleux_Joanna_PLP2.pdf**
   - This contains a brief "Getting Started Guide" for the C++ langauge. 
  Some of the things that can be found here are how to write programs, 
- what IDE's have been reccommended, and how to run the programs. 
+ what IDE's have been recommended, and how to run the programs.
