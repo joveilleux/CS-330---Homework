@@ -7,6 +7,8 @@
   - This contains a brief "Getting Started Guide" for the C++ langauge. 
  Some of the things that can be found here are how to write programs, 
  what IDE's have been recommended, and how to run the programs.
+- **hello_world.cpp**
+  - This contains a simple Hello, World program.
 - **Veilleux_Joanna_PLP3.pdf**
   - This contains some information about data types in C++. Some of the
   topics covered here are naming conventions, data type conversion, 
