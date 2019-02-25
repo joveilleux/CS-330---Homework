@@ -18,3 +18,11 @@
   topics presented in the Veilleux_Joanna_PLP3.pdf file. It is 
   reccomended that these two files be viewed together for the best 
   possible comprehension. 
+- **Veilleux_Joanna_PLP4.pdf**
+  - This contains some information on control flow concepts and statements 
+  in the C++ language. Some of the topics covered in here are for loops, 
+  if/else statements, and switch-cases.
+- **plp_4.cpp**
+  - This is a C++ program that contains code that correlates with the
+  topics presented in the Veilleux_Joanna_PLP4.pdf file. It is reccomended 
+  that these two files be viewed together for the best possible comprehension.
