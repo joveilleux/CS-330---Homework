@@ -26,3 +26,9 @@
   - This is a C++ program that contains code that correlates with the
   topics presented in the Veilleux_Joanna_PLP4.pdf file. It is reccomended 
   that these two files be viewed together for the best possible comprehension.
+- **Veilleux_Joanna_PLP5&6.pdf**
+  - This contains some information on functions and scope in C++. 
+- **plp_5and6.cpp**
+  - This is a C++ program that contains code that correlates with the
+  topics presented in the Veilleux_Joanna_PLP5&6.pdf file. It is reccomended 
+  that these two files be viewed together for the best possible comprehension.
